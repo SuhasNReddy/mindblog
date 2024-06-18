@@ -1,0 +1,17 @@
+.allposts{
+display: flex;
+margin-top: 50px;
+flex-direction: column;
+}
+
+.allposts .singleblog{
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.allposts .singleblog h2{
+    color: rgb(244, 84, 148);
+
+}

@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "username": "suhas",
+      "email": "suhas@gmail.com",
+      "password": "Suhas@123",
+      "id": "1"
+    },
+    {
+      "username": "gegewgwgwkjb",
+      "email": "adb@gmail.com",
+      "password": "ksjfsf",
+      "id": "2"
+    },
+    {
+      "username": "sdkjbfis",
+      "email": "suha@gmial.com",
+      "password": "sjfbwegwi",
+      "id": "3"
+    },
+    {
+      "username": "ewfw",
+      "email": "sua@gmail.com",
+      "password": "Suhas@123",
+      "id": "4"
+    },
+    {
+      "id": "7355",
+      "username": "Suhas",
+      "email": "suhas1@gmail.com",
+      "password": "Suhas@123"
+    },
+    {
+      "id": "8b09",
+      "username": "vikass",
+      "email": "vikas@gmail.com",
+      "password": "Vikas@123"
+    }
+  ],
+  "posts": [
+    {
+      "title": "sdhgb egh weig",
+      "body": "qwegfiuwegi wegj",
+      "email": "suhas1@gmail.com",
+      "id": "1"
+    },
+    {
+      "title": "dsvsg",
+      "body": "KJBN N",
+      "email": "suhas1@gmail.com",
+      "id": "2"
+    },
+    {
+      "title": "hsvebfhk ewq",
+      "body": "kjbsef wef \nqqjnjiw vb\nqeqjien",
+      "email": "vikas@gmail.com",
+      "id": "3"
+    },
+    {
+      "title": "About Naturre",
+      "body": "asiufg af iuagfal;sfiaus fasfui asif asf saiuf asf asf asfu asfkvdnvnsdu v vusdhv asfau",
+      "email": "suhas@gmail.com",
+      "id": "5"
+    },
+    {
+      "id": "30a0",
+      "title": "hello world",
+      "body": "the first program",
+      "email": "suhas1@gmail.com"
+    },
+    {
+      "id": "2ad8",
+      "title": "Neww BLoggg",
+      "body": "asu hfiafsaifo",
+      "email": "suhas@gmail.com"
+    },
+    {
+      "id": "7a57",
+      "title": "latest bloggggaskgd adas 16-06-2024",
+      "body": "helloooo worldd",
+      "email": "suhas@gmail.com"
+    }
+  ],
+  "orders": [
+    {
+      "productId": "p12",
+      "productName": "akjfn",
+      "price": 87,
+      "quantity": 1,
+      "id": "1"
+    },
+    {
+      "productId": "p121",
+      "productName": "kjb",
+      "price": 4,
+      "quantity": 52,
+      "id": "2"
+    },
+    {
+      "productId": "p123",
+      "productName": "kdsjf n",
+      "price": 54,
+      "quantity": 0,
+      "id": "3"
+    }
+  ],
+  "myorders": [
+    {
+      "productId": "p12",
+      "productName": "akjfn",
+      "price": 87,
+      "quantity": 3,
+      "id": "1",
+      "email": "suhas@gmail.com"
+    },
+    {
+      "productId": "p121",
+      "productName": "kjb",
+      "price": 4,
+      "quantity": 53,
+      "id": "2",
+      "email": "suhas@gmail.com"
+    }
+  ]
+}
